@@ -13,6 +13,7 @@ This is a toy-compiler for a strongly-typed language ERPLAG, the specifications 
 - GCC 5.4.0 or above
 
 # To generate asm file:
+- make
 - ./compiler source_code.txt output.asm
 
 # To execute the program:
